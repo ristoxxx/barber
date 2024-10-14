@@ -12,7 +12,7 @@
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.15",
-    "react-calendar": "10.4.0"
+    "react-calendar": "^10"
   },
   "devDependencies": {
     "typescript": "^5",
