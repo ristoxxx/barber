@@ -25,8 +25,8 @@ export default function Home() {
 
       {/* Otsikkoteksti ja kappaleteksti */}
       <div className="text-center mt-6">
-        <h1 className="text-3xl font-bold">Welcome to the page!</h1>
-        <p className="mt-2 text-lg">This is an example page created with Next.js and Tailwind CSS.</p>
+        <h1 className="text-3xl font-bold">Welcome!</h1>
+        <p className="mt-2 text-lg">Choose salon and chair</p>
       </div>
 
       {/* Helsinki nappi */}
