@@ -25,7 +25,7 @@ export default function Home() {
 
       {/* Otsikkoteksti ja kappaleteksti */}
       <div className="text-center mt-6">
-        <h1 className="text-3xl font-bold">Welcome!</h1>
+        <h1 className="text-3xl font-bold">Tervetuloa!</h1>
         <p className="mt-2 text-lg">Choose salon and chair</p>
       </div>
 
